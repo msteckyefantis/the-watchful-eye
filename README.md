@@ -1,5 +1,5 @@
 # the-watchful-eye
-The Watchful Eye. The ultimate open-source character and designs.
+**The Watchful Eye**, the ultimate open-source character and designs.
 
 ### images.main
 ![https://fcbbc.s3.amazonaws.com/images/FCBBC.png](https://fcbbc.s3.amazonaws.com/images/FCBBC.png)
@@ -11,7 +11,5 @@ The Watchful Eye. The ultimate open-source character and designs.
 ### quotes.greetings
 #### *"Hello world, 👁 see you!▼"*
 
-
-<br>
-
-As always, stay tuned for updates of The Watchful Eye👁▼
+### quotes.casual
+#### *"The weather is soothing today, a great day to see the views.👁▼"*
