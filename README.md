@@ -1,6 +1,8 @@
 # the-watchful-eye
 **The Watchful Eye**, the ultimate open-source character and designs.
 
+[![npm version](https://badge.fury.io/js/the-watchful-eye.svg)](https://badge.fury.io/js/the-watchful-eye)
+
 ### images.main
 ![https://fcbbc.s3.amazonaws.com/images/FCBBC.png](https://fcbbc.s3.amazonaws.com/images/FCBBC.png)
 
