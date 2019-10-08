@@ -13,7 +13,7 @@ module.exports = f({
 
     quotes: f({
 
-        greetings: 'Hello world, 👁 see you!👁▼',
+        greetings: 'Hello world, 👁 see you!▼',
         casual: (
             'The weather is soothing today, a great day to see the views.👁▼'
         )
