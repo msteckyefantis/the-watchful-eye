@@ -17,4 +17,4 @@
 ##### *"The weather is soothing today, a great day to see the views.👁▼"*
 
 #### quotes.optimistic
-##### *"All people, no matter what race, or religion, sexuality, gender, nationality, ability, age, or any other characteristics should be accepted, and their customs should be accepted too, the world can work that way, we can see things 👁 to 👁 simply by talking about it. One thing is for sure, 👁 accept you!👁▼"*
+##### *"All people, no matter what race, religion, sexuality, gender, nationality, ability, age, or any other characteristics should be accepted, and their customs should be accepted too, the world can work that way, we can see things 👁 to 👁 simply by talking about it. One thing is for sure, 👁 accept you!👁▼"*
