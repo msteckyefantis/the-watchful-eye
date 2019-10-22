@@ -7,8 +7,8 @@ module.exports = f({
 
     images: f({
 
-        small: 'https://fcbbc.s3.amazonaws.com/images/FCBBCSmall.png',
-        main: 'https://fcbbc.s3.amazonaws.com/images/FCBBC.png',
+        small: 'https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye_small.png',
+        main: 'https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye.png',
     }),
 
     quotes: f({
