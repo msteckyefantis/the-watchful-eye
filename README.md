@@ -14,6 +14,3 @@
 
 #### quotes.casual
 ##### *"The weather is soothing today, a great day to see the views.👁▼"*
-
-#### quotes.positivity
-##### *"All people, no matter what race, religion, sexuality, gender, nationality, ability, age, or any other characteristic, should be accepted, and their customs should be accepted too, the world can work that way, we can see things 👁 to 👁 simply by talking about it. One thing is for sure, 👁 accept you!👁▼"*
