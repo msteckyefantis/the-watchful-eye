@@ -4,7 +4,7 @@
 [![npm version](https://badge.fury.io/js/the-watchful-eye.svg)](https://badge.fury.io/js/the-watchful-eye)
 
 #### images.small
-![https://the-watchful-eye.s3.amazonaws.com/images/the-watzchful-eye_small.png](https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye_small.png)
+![https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye_small.png](https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye_small.png)
 
 #### images.main
 ![https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye.png](https://the-watchful-eye.s3.amazonaws.com/images/the-watchful-eye.png)
