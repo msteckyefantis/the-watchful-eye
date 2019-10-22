@@ -1,7 +1,7 @@
 {
   "name": "the-watchful-eye",
   "version": "2.0.0",
-  "description": "The ultimate open source character and designs.",
+  "description": "The ultimate open-source character, designs, and more!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

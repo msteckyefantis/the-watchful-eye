@@ -1,5 +1,5 @@
 # the-watchful-eye
-**The Watchful Eye**, the ultimate open-source character and designs.
+**The Watchful Eye**, the ultimate open-source character, designs, and more!
 
 [![npm version](https://badge.fury.io/js/the-watchful-eye.svg)](https://badge.fury.io/js/the-watchful-eye)
 
